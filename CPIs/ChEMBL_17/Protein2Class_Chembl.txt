@@ -1,0 +1,2249 @@
+CHEMBL5362	Miscellaneous
+CHEMBL5368	Miscellaneous
+CHEMBL5293	Miscellaneous
+CHEMBL5342	Miscellaneous
+CHEMBL5385	Miscellaneous
+CHEMBL5418	Miscellaneous
+CHEMBL5421	Miscellaneous
+CHEMBL5460	Miscellaneous
+CHEMBL5465	Miscellaneous
+CHEMBL5569	Miscellaneous
+CHEMBL5041	Miscellaneous
+CHEMBL5042	Miscellaneous
+CHEMBL5114	Miscellaneous
+CHEMBL5124	Miscellaneous
+CHEMBL5214	Miscellaneous
+CHEMBL5219	Miscellaneous
+CHEMBL5227	Miscellaneous
+CHEMBL5262	Miscellaneous
+CHEMBL5269	Miscellaneous
+CHEMBL5297	Miscellaneous
+CHEMBL5303	Miscellaneous
+CHEMBL5304	Miscellaneous
+CHEMBL5305	Miscellaneous
+CHEMBL5399	Miscellaneous
+CHEMBL5401	Miscellaneous
+CHEMBL5402	Miscellaneous
+CHEMBL5403	Miscellaneous
+CHEMBL5436	Miscellaneous
+CHEMBL5439	Miscellaneous
+CHEMBL5441	Miscellaneous
+CHEMBL5479	Miscellaneous
+CHEMBL5522	Miscellaneous
+CHEMBL5557	Miscellaneous
+CHEMBL5011	Miscellaneous
+CHEMBL5652	Miscellaneous
+CHEMBL5653	Miscellaneous
+CHEMBL5748	Miscellaneous
+CHEMBL5757	Miscellaneous
+CHEMBL6007	Miscellaneous
+CHEMBL6084	Miscellaneous
+CHEMBL6131	Miscellaneous
+CHEMBL6134	Miscellaneous
+CHEMBL6169	Miscellaneous
+CHEMBL5735	Miscellaneous
+CHEMBL5738	Miscellaneous
+CHEMBL5742	Miscellaneous
+CHEMBL5768	Miscellaneous
+CHEMBL5795	Miscellaneous
+CHEMBL5797	Miscellaneous
+CHEMBL5800	Miscellaneous
+CHEMBL5801	Miscellaneous
+CHEMBL5908	Miscellaneous
+CHEMBL5976	Miscellaneous
+CHEMBL6047	Miscellaneous
+CHEMBL6045	Miscellaneous
+CHEMBL6051	Miscellaneous
+CHEMBL6100	Miscellaneous
+CHEMBL5676	Miscellaneous
+CHEMBL6044	Miscellaneous
+CHEMBL6135	Miscellaneous
+CHEMBL6141	Miscellaneous
+CHEMBL6148	Miscellaneous
+CHEMBL6184	Miscellaneous
+CHEMBL6187	Miscellaneous
+CHEMBL6188	Miscellaneous
+CHEMBL5636	Miscellaneous
+CHEMBL1075053	Miscellaneous
+CHEMBL1075062	Miscellaneous
+CHEMBL1075063	Miscellaneous
+CHEMBL1075069	Miscellaneous
+CHEMBL1075073	Miscellaneous
+CHEMBL5988	Miscellaneous
+CHEMBL5836	Miscellaneous
+CHEMBL1075261	Miscellaneous
+CHEMBL6197	Miscellaneous
+CHEMBL1075266	Miscellaneous
+CHEMBL1075302	Miscellaneous
+CHEMBL1075303	Miscellaneous
+CHEMBL1075310	Miscellaneous
+CHEMBL6075	Miscellaneous
+CHEMBL6198	Miscellaneous
+CHEMBL1075205	Miscellaneous
+CHEMBL1075209	Miscellaneous
+CHEMBL1075226	Miscellaneous
+CHEMBL1075227	Miscellaneous
+CHEMBL1075237	Miscellaneous
+CHEMBL1075238	Miscellaneous
+CHEMBL1075239	Miscellaneous
+CHEMBL1075028	Miscellaneous
+CHEMBL5831	Miscellaneous
+CHEMBL1075033	Miscellaneous
+CHEMBL5833	Miscellaneous
+CHEMBL1075128	Miscellaneous
+CHEMBL1075149	Miscellaneous
+CHEMBL1075193	Miscellaneous
+CHEMBL1075313	Miscellaneous
+CHEMBL1075319	Miscellaneous
+CHEMBL1163113	Miscellaneous
+CHEMBL1250417	Miscellaneous
+CHEMBL1255142	Miscellaneous
+CHEMBL1275211	Miscellaneous
+CHEMBL1275223	Miscellaneous
+CHEMBL1293239	Miscellaneous
+CHEMBL1293244	Miscellaneous
+CHEMBL1293246	Miscellaneous
+CHEMBL1293274	Miscellaneous
+CHEMBL1293286	Miscellaneous
+CHEMBL1293305	Miscellaneous
+CHEMBL1293307	Miscellaneous
+CHEMBL1628467	Miscellaneous
+CHEMBL1628469	Miscellaneous
+CHEMBL1628477	Miscellaneous
+CHEMBL1628479	Miscellaneous
+CHEMBL1628480	Miscellaneous
+CHEMBL1641337	Miscellaneous
+CHEMBL1641338	Miscellaneous
+CHEMBL1641339	Miscellaneous
+CHEMBL1641345	Miscellaneous
+CHEMBL1641346	Miscellaneous
+CHEMBL1641360	Miscellaneous
+CHEMBL1649051	Miscellaneous
+CHEMBL1649055	Miscellaneous
+CHEMBL1667665	Miscellaneous
+CHEMBL1667670	Miscellaneous
+CHEMBL1667675	Miscellaneous
+CHEMBL1667676	Miscellaneous
+CHEMBL1667677	Miscellaneous
+CHEMBL1667678	Miscellaneous
+CHEMBL1667683	Miscellaneous
+CHEMBL1667684	Miscellaneous
+CHEMBL1667685	Miscellaneous
+CHEMBL1667686	Miscellaneous
+CHEMBL1667700	Miscellaneous
+CHEMBL1667701	Miscellaneous
+CHEMBL1681624	Miscellaneous
+CHEMBL1687683	Miscellaneous
+CHEMBL1687684	Miscellaneous
+CHEMBL1697661	Miscellaneous
+CHEMBL1697666	Miscellaneous
+CHEMBL1697667	Miscellaneous
+CHEMBL1697670	Miscellaneous
+CHEMBL1697671	Miscellaneous
+CHEMBL1697672	Miscellaneous
+CHEMBL1741203	Miscellaneous
+CHEMBL1744523	Miscellaneous
+CHEMBL1770047	Miscellaneous
+CHEMBL1772929	Miscellaneous
+CHEMBL1772930	Miscellaneous
+CHEMBL1777665	Miscellaneous
+CHEMBL1795101	Miscellaneous
+CHEMBL1795119	Miscellaneous
+CHEMBL1795125	Miscellaneous
+CHEMBL1795153	Miscellaneous
+CHEMBL1795171	Miscellaneous
+CHEMBL1795172	Miscellaneous
+CHEMBL1795173	Miscellaneous
+CHEMBL1795188	Miscellaneous
+CHEMBL1909044	Miscellaneous
+CHEMBL1909485	Miscellaneous
+CHEMBL1914272	Miscellaneous
+CHEMBL1921661	Miscellaneous
+CHEMBL1932895	Miscellaneous
+CHEMBL1932897	Miscellaneous
+CHEMBL1932898	Miscellaneous
+CHEMBL1932900	Miscellaneous
+CHEMBL1938227	Miscellaneous
+CHEMBL1944489	Miscellaneous
+CHEMBL1944490	Miscellaneous
+CHEMBL1944497	Miscellaneous
+CHEMBL1944499	Miscellaneous
+CHEMBL1955709	Miscellaneous
+CHEMBL2010636	Miscellaneous
+CHEMBL2021755	Miscellaneous
+CHEMBL2046258	Miscellaneous
+CHEMBL2052035	Miscellaneous
+CHEMBL2073673	Miscellaneous
+CHEMBL2163170	Miscellaneous
+CHEMBL2163174	Miscellaneous
+CHEMBL2163179	Miscellaneous
+CHEMBL2169724	Miscellaneous
+CHEMBL2176848	Miscellaneous
+CHEMBL2189147	Miscellaneous
+CHEMBL2189150	Miscellaneous
+CHEMBL2303641	Miscellaneous
+CHEMBL2304402	Miscellaneous
+CHEMBL2304404	Miscellaneous
+CHEMBL2304406	Miscellaneous
+CHEMBL2304407	Miscellaneous
+CHEMBL2304408	Miscellaneous
+CHEMBL2311226	Miscellaneous
+CHEMBL2311238	Miscellaneous
+CHEMBL2311240	Miscellaneous
+CHEMBL2311242	Miscellaneous
+CHEMBL2321617	Miscellaneous
+CHEMBL2321636	Miscellaneous
+CHEMBL2331045	Miscellaneous
+CHEMBL2331046	Miscellaneous
+CHEMBL2331047	Miscellaneous
+CHEMBL2331048	Miscellaneous
+CHEMBL2331049	Miscellaneous
+CHEMBL2331058	Miscellaneous
+CHEMBL2331066	Miscellaneous
+CHEMBL2331068	Miscellaneous
+CHEMBL2331070	Miscellaneous
+CHEMBL2346486	Miscellaneous
+CHEMBL2346494	Miscellaneous
+CHEMBL1783	Miscellaneous
+CHEMBL3475	Miscellaneous
+CHEMBL4932	Miscellaneous
+CHEMBL3305	Miscellaneous
+CHEMBL3194	Miscellaneous
+CHEMBL4918	Miscellaneous
+CHEMBL4624	Miscellaneous
+CHEMBL4741	Miscellaneous
+CHEMBL4221	Miscellaneous
+CHEMBL4742	Miscellaneous
+CHEMBL4153	Miscellaneous
+CHEMBL2149	Miscellaneous
+CHEMBL3465	Miscellaneous
+CHEMBL4552	Miscellaneous
+CHEMBL287	Miscellaneous
+CHEMBL3602	Miscellaneous
+CHEMBL3558	Miscellaneous
+CHEMBL3817	Miscellaneous
+CHEMBL4550	Miscellaneous
+CHEMBL4879	Miscellaneous
+CHEMBL2083	Miscellaneous
+CHEMBL4945	Miscellaneous
+CHEMBL2569	Miscellaneous
+CHEMBL4172	Miscellaneous
+CHEMBL3663	Miscellaneous
+CHEMBL3208	Miscellaneous
+CHEMBL3344	Miscellaneous
+CHEMBL3674	Miscellaneous
+CHEMBL4846	Miscellaneous
+CHEMBL4625	Miscellaneous
+CHEMBL4860	Miscellaneous
+CHEMBL4361	Miscellaneous
+CHEMBL4677	Miscellaneous
+CHEMBL5170	Miscellaneous
+CHEMBL4848	Miscellaneous
+CHEMBL2075	enzyme
+CHEMBL1958	enzyme
+CHEMBL1900	enzyme
+CHEMBL1837	enzyme
+CHEMBL2037	enzyme
+CHEMBL4715	enzyme
+CHEMBL4114	enzyme
+CHEMBL3160	enzyme
+CHEMBL2447	enzyme
+CHEMBL4647	enzyme
+CHEMBL2329	enzyme
+CHEMBL2575	enzyme
+CHEMBL4769	enzyme
+CHEMBL2578	enzyme
+CHEMBL2883	enzyme
+CHEMBL3514	enzyme
+CHEMBL3855	enzyme
+CHEMBL2360	enzyme
+CHEMBL3959	enzyme
+CHEMBL3589	enzyme
+CHEMBL2085	enzyme
+CHEMBL4941	enzyme
+CHEMBL2392	enzyme
+CHEMBL2361	enzyme
+CHEMBL4615	enzyme
+CHEMBL2429	enzyme
+CHEMBL2424	enzyme
+CHEMBL4759	enzyme
+CHEMBL2391	enzyme
+CHEMBL2097	enzyme
+CHEMBL2363	enzyme
+CHEMBL4780	enzyme
+CHEMBL5131	enzyme
+CHEMBL2425	enzyme
+CHEMBL2902	enzyme
+CHEMBL3565	enzyme
+CHEMBL2757	enzyme
+CHEMBL2528	enzyme
+CHEMBL2439	enzyme
+CHEMBL2649	enzyme
+CHEMBL3474	enzyme
+CHEMBL2154	enzyme
+CHEMBL3198	enzyme
+CHEMBL3199	enzyme
+CHEMBL2522	enzyme
+CHEMBL3200	enzyme
+CHEMBL2524	enzyme
+CHEMBL2478	enzyme
+CHEMBL3254	enzyme
+CHEMBL2179	enzyme
+CHEMBL3239	enzyme
+CHEMBL3277	enzyme
+CHEMBL4760	enzyme
+CHEMBL4807	enzyme
+CHEMBL2633	enzyme
+CHEMBL4810	enzyme
+CHEMBL4811	enzyme
+CHEMBL3028	enzyme
+CHEMBL3023	enzyme
+CHEMBL4617	enzyme
+CHEMBL5100	enzyme
+CHEMBL2186	enzyme
+CHEMBL281	enzyme
+CHEMBL3331	enzyme
+CHEMBL4321	enzyme
+CHEMBL3338	enzyme
+CHEMBL4931	enzyme
+CHEMBL285	enzyme
+CHEMBL4465	enzyme
+CHEMBL4001	enzyme
+CHEMBL2767	enzyme
+CHEMBL4241	enzyme
+CHEMBL2768	enzyme
+CHEMBL2878	enzyme
+CHEMBL4559	enzyme
+CHEMBL3559	enzyme
+CHEMBL3229	enzyme
+CHEMBL2243	enzyme
+CHEMBL3531	enzyme
+CHEMBL2246	enzyme
+CHEMBL3815	enzyme
+CHEMBL2823	enzyme
+CHEMBL4133	enzyme
+CHEMBL4033	enzyme
+CHEMBL2140	enzyme
+CHEMBL4176	enzyme
+CHEMBL3975	enzyme
+CHEMBL4181	enzyme
+CHEMBL2568	enzyme
+CHEMBL4184	enzyme
+CHEMBL2570	enzyme
+CHEMBL2812	enzyme
+CHEMBL4234	enzyme
+CHEMBL4235	enzyme
+CHEMBL2908	enzyme
+CHEMBL4342	enzyme
+CHEMBL3180	enzyme
+CHEMBL3181	enzyme
+CHEMBL3962	enzyme
+CHEMBL2912	enzyme
+CHEMBL3422	enzyme
+CHEMBL5099	enzyme
+CHEMBL4049	enzyme
+CHEMBL2263	enzyme
+CHEMBL3203	enzyme
+CHEMBL2265	enzyme
+CHEMBL3117	enzyme
+CHEMBL3383	enzyme
+CHEMBL2266	enzyme
+CHEMBL3046	enzyme
+CHEMBL3921	enzyme
+CHEMBL4050	enzyme
+CHEMBL3865	enzyme
+CHEMBL3457	enzyme
+CHEMBL4174	enzyme
+CHEMBL3910	enzyme
+CHEMBL2758	enzyme
+CHEMBL4394	enzyme
+CHEMBL2911	enzyme
+CHEMBL3402	enzyme
+CHEMBL3403	enzyme
+CHEMBL3686	enzyme
+CHEMBL3052	enzyme
+CHEMBL3871	enzyme
+CHEMBL3243	enzyme
+CHEMBL3050	enzyme
+CHEMBL2966	enzyme
+CHEMBL2683	enzyme
+CHEMBL2331	enzyme
+CHEMBL2756	enzyme
+CHEMBL2993	enzyme
+CHEMBL2680	enzyme
+CHEMBL3389	enzyme
+CHEMBL2383	enzyme
+CHEMBL4564	enzyme
+CHEMBL3455	enzyme
+CHEMBL3358	enzyme
+CHEMBL2856	enzyme
+CHEMBL4042	enzyme
+CHEMBL2915	enzyme
+CHEMBL4343	enzyme
+CHEMBL3300	enzyme
+CHEMBL4388	enzyme
+CHEMBL2622	enzyme
+CHEMBL4391	enzyme
+CHEMBL2627	enzyme
+CHEMBL4278	enzyme
+CHEMBL3275	enzyme
+CHEMBL4426	enzyme
+CHEMBL4281	enzyme
+CHEMBL2372	enzyme
+CHEMBL4338	enzyme
+CHEMBL2347	enzyme
+CHEMBL3148	enzyme
+CHEMBL2662	enzyme
+CHEMBL2663	enzyme
+CHEMBL2725	enzyme
+CHEMBL2726	enzyme
+CHEMBL2869	enzyme
+CHEMBL4323	enzyme
+CHEMBL2283	enzyme
+CHEMBL2782	enzyme
+CHEMBL3681	enzyme
+CHEMBL4502	enzyme
+CHEMBL2977	enzyme
+CHEMBL2789	enzyme
+CHEMBL3623	enzyme
+CHEMBL5101	enzyme
+CHEMBL5016	enzyme
+CHEMBL4078	enzyme
+CHEMBL2860	enzyme
+CHEMBL3334	enzyme
+CHEMBL2949	enzyme
+CHEMBL2623	enzyme
+CHEMBL3081	enzyme
+CHEMBL4768	enzyme
+CHEMBL2987	enzyme
+CHEMBL2988	enzyme
+CHEMBL2932	enzyme
+CHEMBL2935	enzyme
+CHEMBL4102	enzyme
+CHEMBL3499	enzyme
+CHEMBL3651	enzyme
+CHEMBL3652	enzyme
+CHEMBL3626	enzyme
+CHEMBL2982	enzyme
+CHEMBL4110	enzyme
+CHEMBL4265	enzyme
+CHEMBL5276	enzyme
+CHEMBL5031	enzyme
+CHEMBL5489	enzyme
+CHEMBL2750	enzyme
+CHEMBL4119	enzyme
+CHEMBL3463	enzyme
+CHEMBL4651	enzyme
+CHEMBL3675	enzyme
+CHEMBL3353	enzyme
+CHEMBL2942	enzyme
+CHEMBL3927	enzyme
+CHEMBL4196	enzyme
+CHEMBL5328	enzyme
+CHEMBL3967	enzyme
+CHEMBL5035	enzyme
+CHEMBL3345	enzyme
+CHEMBL4622	enzyme
+CHEMBL3348	enzyme
+CHEMBL5022	enzyme
+CHEMBL3745	enzyme
+CHEMBL3746	enzyme
+CHEMBL3482	enzyme
+CHEMBL4195	enzyme
+CHEMBL5077	enzyme
+CHEMBL3936	enzyme
+CHEMBL4357	enzyme
+CHEMBL5452	enzyme
+CHEMBL5525	enzyme
+CHEMBL5457	enzyme
+CHEMBL3703	enzyme
+CHEMBL4449	enzyme
+CHEMBL4951	enzyme
+CHEMBL4191	enzyme
+CHEMBL4349	enzyme
+CHEMBL3701	enzyme
+CHEMBL4840	enzyme
+CHEMBL4734	enzyme
+CHEMBL4194	enzyme
+CHEMBL4412	enzyme
+CHEMBL4251	enzyme
+CHEMBL4753	enzyme
+CHEMBL4350	enzyme
+CHEMBL4757	enzyme
+CHEMBL4580	enzyme
+CHEMBL4386	enzyme
+CHEMBL4740	enzyme
+CHEMBL4638	enzyme
+CHEMBL4461	enzyme
+CHEMBL4462	enzyme
+CHEMBL4506	enzyme
+CHEMBL4508	enzyme
+CHEMBL4512	enzyme
+CHEMBL4513	enzyme
+CHEMBL4150	enzyme
+CHEMBL4200	enzyme
+CHEMBL4201	enzyme
+CHEMBL4521	enzyme
+CHEMBL4678	enzyme
+CHEMBL4679	enzyme
+CHEMBL4680	enzyme
+CHEMBL4681	enzyme
+CHEMBL4378	enzyme
+CHEMBL4538	enzyme
+CHEMBL4752	enzyme
+CHEMBL3486	enzyme
+CHEMBL3545	enzyme
+CHEMBL4167	enzyme
+CHEMBL3490	enzyme
+CHEMBL3491	enzyme
+CHEMBL4660	enzyme
+CHEMBL4370	enzyme
+CHEMBL4373	enzyme
+CHEMBL4685	enzyme
+CHEMBL4916	enzyme
+CHEMBL4215	enzyme
+CHEMBL4695	enzyme
+CHEMBL4696	enzyme
+CHEMBL4698	enzyme
+CHEMBL4978	enzyme
+CHEMBL3318	enzyme
+CHEMBL3319	enzyme
+CHEMBL5171	enzyme
+CHEMBL4211	enzyme
+CHEMBL5172	enzyme
+CHEMBL5173	enzyme
+CHEMBL4314	enzyme
+CHEMBL4858	enzyme
+CHEMBL4327	enzyme
+CHEMBL4328	enzyme
+CHEMBL3321	enzyme
+CHEMBL3326	enzyme
+CHEMBL3327	enzyme
+CHEMBL3328	enzyme
+CHEMBL3541	enzyme
+CHEMBL4668	enzyme
+CHEMBL5524	enzyme
+CHEMBL5273	enzyme
+CHEMBL5357	enzyme
+CHEMBL5359	enzyme
+CHEMBL5360	enzyme
+CHEMBL5361	enzyme
+CHEMBL5367	enzyme
+CHEMBL5289	enzyme
+CHEMBL5337	enzyme
+CHEMBL5423	enzyme
+CHEMBL5424	enzyme
+CHEMBL5463	enzyme
+CHEMBL5508	enzyme
+CHEMBL5511	enzyme
+CHEMBL5536	enzyme
+CHEMBL5537	enzyme
+CHEMBL5541	enzyme
+CHEMBL5545	enzyme
+CHEMBL5566	enzyme
+CHEMBL5567	enzyme
+CHEMBL5049	enzyme
+CHEMBL5086	enzyme
+CHEMBL5090	enzyme
+CHEMBL5094	enzyme
+CHEMBL5118	enzyme
+CHEMBL5120	enzyme
+CHEMBL5150	enzyme
+CHEMBL5151	enzyme
+CHEMBL5154	enzyme
+CHEMBL5185	enzyme
+CHEMBL5188	enzyme
+CHEMBL5216	enzyme
+CHEMBL5217	enzyme
+CHEMBL5220	enzyme
+CHEMBL5223	enzyme
+CHEMBL5228	enzyme
+CHEMBL5270	enzyme
+CHEMBL5271	enzyme
+CHEMBL5298	enzyme
+CHEMBL5346	enzyme
+CHEMBL5348	enzyme
+CHEMBL5353	enzyme
+CHEMBL5354	enzyme
+CHEMBL5394	enzyme
+CHEMBL5397	enzyme
+CHEMBL5431	enzyme
+CHEMBL5440	enzyme
+CHEMBL5482	enzyme
+CHEMBL5485	enzyme
+CHEMBL5521	enzyme
+CHEMBL5555	enzyme
+CHEMBL5584	enzyme
+CHEMBL5586	enzyme
+CHEMBL4999	enzyme
+CHEMBL5009	enzyme
+CHEMBL5010	enzyme
+CHEMBL5648	enzyme
+CHEMBL5658	enzyme
+CHEMBL5686	enzyme
+CHEMBL5688	enzyme
+CHEMBL5695	enzyme
+CHEMBL5722	enzyme
+CHEMBL5724	enzyme
+CHEMBL5726	enzyme
+CHEMBL5727	enzyme
+CHEMBL5756	enzyme
+CHEMBL5774	enzyme
+CHEMBL5775	enzyme
+CHEMBL5782	enzyme
+CHEMBL5816	enzyme
+CHEMBL5847	enzyme
+CHEMBL5848	enzyme
+CHEMBL5887	enzyme
+CHEMBL5931	enzyme
+CHEMBL5933	enzyme
+CHEMBL5973	enzyme
+CHEMBL5974	enzyme
+CHEMBL6001	enzyme
+CHEMBL6009	enzyme
+CHEMBL6011	enzyme
+CHEMBL6013	enzyme
+CHEMBL6035	enzyme
+CHEMBL6036	enzyme
+CHEMBL6040	enzyme
+CHEMBL6078	enzyme
+CHEMBL6091	enzyme
+CHEMBL6129	enzyme
+CHEMBL6132	enzyme
+CHEMBL6172	enzyme
+CHEMBL5619	enzyme
+CHEMBL5623	enzyme
+CHEMBL5631	enzyme
+CHEMBL5662	enzyme
+CHEMBL5669	enzyme
+CHEMBL5670	enzyme
+CHEMBL5697	enzyme
+CHEMBL5704	enzyme
+CHEMBL5705	enzyme
+CHEMBL5711	enzyme
+CHEMBL5730	enzyme
+CHEMBL5732	enzyme
+CHEMBL5761	enzyme
+CHEMBL5763	enzyme
+CHEMBL5764	enzyme
+CHEMBL5765	enzyme
+CHEMBL5767	enzyme
+CHEMBL5791	enzyme
+CHEMBL5803	enzyme
+CHEMBL5860	enzyme
+CHEMBL5863	enzyme
+CHEMBL5905	enzyme
+CHEMBL5909	enzyme
+CHEMBL5947	enzyme
+CHEMBL5979	enzyme
+CHEMBL6057	enzyme
+CHEMBL6095	enzyme
+CHEMBL6017	enzyme
+CHEMBL6108	enzyme
+CHEMBL6136	enzyme
+CHEMBL6137	enzyme
+CHEMBL6140	enzyme
+CHEMBL6145	enzyme
+CHEMBL6176	enzyme
+CHEMBL6177	enzyme
+CHEMBL6185	enzyme
+CHEMBL5633	enzyme
+CHEMBL1075039	enzyme
+CHEMBL1075040	enzyme
+CHEMBL1075041	enzyme
+CHEMBL1075042	enzyme
+CHEMBL1075045	enzyme
+CHEMBL1075048	enzyme
+CHEMBL1075060	enzyme
+CHEMBL1075051	enzyme
+CHEMBL1075054	enzyme
+CHEMBL5956	enzyme
+CHEMBL1075089	enzyme
+CHEMBL5983	enzyme
+CHEMBL5993	enzyme
+CHEMBL5999	enzyme
+CHEMBL6026	enzyme
+CHEMBL5840	enzyme
+CHEMBL6113	enzyme
+CHEMBL6117	enzyme
+CHEMBL6159	enzyme
+CHEMBL6194	enzyme
+CHEMBL1075264	enzyme
+CHEMBL1075270	enzyme
+CHEMBL1075280	enzyme
+CHEMBL1075281	enzyme
+CHEMBL1075282	enzyme
+CHEMBL1075283	enzyme
+CHEMBL1075284	enzyme
+CHEMBL1075294	enzyme
+CHEMBL1075305	enzyme
+CHEMBL1075307	enzyme
+CHEMBL6060	enzyme
+CHEMBL6065	enzyme
+CHEMBL6066	enzyme
+CHEMBL6067	enzyme
+CHEMBL6068	enzyme
+CHEMBL6069	enzyme
+CHEMBL1075203	enzyme
+CHEMBL1075208	enzyme
+CHEMBL1075214	enzyme
+CHEMBL1075220	enzyme
+CHEMBL1075234	enzyme
+CHEMBL1075248	enzyme
+CHEMBL1075251	enzyme
+CHEMBL6110	enzyme
+CHEMBL1075256	enzyme
+CHEMBL1075023	enzyme
+CHEMBL1075024	enzyme
+CHEMBL1075025	enzyme
+CHEMBL5834	enzyme
+CHEMBL5835	enzyme
+CHEMBL1075110	enzyme
+CHEMBL1075115	enzyme
+CHEMBL1075130	enzyme
+CHEMBL1075138	enzyme
+CHEMBL1075158	enzyme
+CHEMBL1075159	enzyme
+CHEMBL1075169	enzyme
+CHEMBL1075174	enzyme
+CHEMBL1075177	enzyme
+CHEMBL1075179	enzyme
+CHEMBL1075097	enzyme
+CHEMBL1075105	enzyme
+CHEMBL1075320	enzyme
+CHEMBL1163101	enzyme
+CHEMBL1163130	enzyme
+CHEMBL1169593	enzyme
+CHEMBL1169594	enzyme
+CHEMBL1250368	enzyme
+CHEMBL1250413	enzyme
+CHEMBL1255130	enzyme
+CHEMBL1255149	enzyme
+CHEMBL1255164	enzyme
+CHEMBL1275219	enzyme
+CHEMBL1275210	enzyme
+CHEMBL1275212	enzyme
+CHEMBL1287617	enzyme
+CHEMBL1293190	enzyme
+CHEMBL1293197	enzyme
+CHEMBL1293255	enzyme
+CHEMBL1293265	enzyme
+CHEMBL1293320	enzyme
+CHEMBL1628470	enzyme
+CHEMBL1628475	enzyme
+CHEMBL1641343	enzyme
+CHEMBL1649048	enzyme
+CHEMBL1649054	enzyme
+CHEMBL1649059	enzyme
+CHEMBL1667667	enzyme
+CHEMBL1667669	enzyme
+CHEMBL1667699	enzyme
+CHEMBL1671609	enzyme
+CHEMBL1681610	enzyme
+CHEMBL1681615	enzyme
+CHEMBL1681620	enzyme
+CHEMBL1681621	enzyme
+CHEMBL1681627	enzyme
+CHEMBL1741162	enzyme
+CHEMBL1743316	enzyme
+CHEMBL1743317	enzyme
+CHEMBL1743319	enzyme
+CHEMBL1743320	enzyme
+CHEMBL1744488	enzyme
+CHEMBL1744527	enzyme
+CHEMBL1744528	enzyme
+CHEMBL1770045	enzyme
+CHEMBL1772926	enzyme
+CHEMBL1781858	enzyme
+CHEMBL1781862	enzyme
+CHEMBL1795103	enzyme
+CHEMBL1795126	enzyme
+CHEMBL1795127	enzyme
+CHEMBL1795128	enzyme
+CHEMBL1795136	enzyme
+CHEMBL1795138	enzyme
+CHEMBL1795139	enzyme
+CHEMBL1795144	enzyme
+CHEMBL1795152	enzyme
+CHEMBL1795155	enzyme
+CHEMBL1795156	enzyme
+CHEMBL1795161	enzyme
+CHEMBL1795162	enzyme
+CHEMBL1795165	enzyme
+CHEMBL1795169	enzyme
+CHEMBL1795170	enzyme
+CHEMBL1795174	enzyme
+CHEMBL1795192	enzyme
+CHEMBL1908381	enzyme
+CHEMBL1908382	enzyme
+CHEMBL1908384	enzyme
+CHEMBL1908385	enzyme
+CHEMBL1908386	enzyme
+CHEMBL1908387	enzyme
+CHEMBL1908388	enzyme
+CHEMBL1908389	enzyme
+CHEMBL1909043	enzyme
+CHEMBL1914260	enzyme
+CHEMBL1926488	enzyme
+CHEMBL1926489	enzyme
+CHEMBL1932899	enzyme
+CHEMBL1932905	enzyme
+CHEMBL1938218	enzyme
+CHEMBL1938225	enzyme
+CHEMBL1944498	enzyme
+CHEMBL1944501	enzyme
+CHEMBL1949492	enzyme
+CHEMBL2010635	enzyme
+CHEMBL2021749	enzyme
+CHEMBL2021750	enzyme
+CHEMBL2021757	enzyme
+CHEMBL2034793	enzyme
+CHEMBL2034794	enzyme
+CHEMBL2034795	enzyme
+CHEMBL2034796	enzyme
+CHEMBL2034797	enzyme
+CHEMBL2034798	enzyme
+CHEMBL2034799	enzyme
+CHEMBL2034800	enzyme
+CHEMBL2034801	enzyme
+CHEMBL2034802	enzyme
+CHEMBL2034805	enzyme
+CHEMBL2040702	enzyme
+CHEMBL2046259	enzyme
+CHEMBL2046260	enzyme
+CHEMBL2046264	enzyme
+CHEMBL2046265	enzyme
+CHEMBL2052027	enzyme
+CHEMBL2052031	enzyme
+CHEMBL2052038	enzyme
+CHEMBL2052039	enzyme
+CHEMBL2069157	enzyme
+CHEMBL2069158	enzyme
+CHEMBL2069160	enzyme
+CHEMBL2079847	enzyme
+CHEMBL2079848	enzyme
+CHEMBL2079849	enzyme
+CHEMBL2150832	enzyme
+CHEMBL2150835	enzyme
+CHEMBL2163167	enzyme
+CHEMBL2163178	enzyme
+CHEMBL2163182	enzyme
+CHEMBL2163183	enzyme
+CHEMBL2169723	enzyme
+CHEMBL2169733	enzyme
+CHEMBL2176771	enzyme
+CHEMBL2176837	enzyme
+CHEMBL2176838	enzyme
+CHEMBL2176859	enzyme
+CHEMBL2189138	enzyme
+CHEMBL2189159	enzyme
+CHEMBL2189160	enzyme
+CHEMBL3411	enzyme
+CHEMBL1902	enzyme
+CHEMBL1949	enzyme
+CHEMBL205	lyase
+CHEMBL2885	lyase
+CHEMBL3025	lyase
+CHEMBL261	lyase
+CHEMBL3969	lyase
+CHEMBL4789	lyase
+CHEMBL2326	lyase
+CHEMBL3510	lyase
+CHEMBL3242	lyase
+CHEMBL3729	lyase
+CHEMBL3912	lyase
+CHEMBL3594	lyase
+CHEMBL2164	phosphatase
+CHEMBL4445	phosphatase
+CHEMBL5278	phosphatase
+CHEMBL2635	phosphatase
+CHEMBL3924	phosphatase
+CHEMBL3807	phosphatase
+CHEMBL3166	phosphatase
+CHEMBL2219	phosphatase
+CHEMBL3864	phosphatase
+CHEMBL2976	phosphatase
+CHEMBL2889	phosphatase
+CHEMBL335	phosphatase
+CHEMBL3646	phosphatase
+CHEMBL4452	phosphatase
+CHEMBL4162	phosphatase
+CHEMBL4542	phosphatase
+CHEMBL4903	phosphatase
+CHEMBL3918	phosphatase
+CHEMBL2706	phosphatase
+CHEMBL3521	phosphatase
+CHEMBL4905	phosphatase
+CHEMBL3421	phosphodiesterase
+CHEMBL3774	phosphodiesterase
+CHEMBL4425	phosphodiesterase
+CHEMBL4619	phosphodiesterase
+CHEMBL4409	phosphodiesterase
+CHEMBL2717	phosphodiesterase
+CHEMBL3477	phosphodiesterase
+CHEMBL2652	phosphodiesterase
+CHEMBL4650	phosphodiesterase
+CHEMBL241	phosphodiesterase
+CHEMBL3061	phosphodiesterase
+CHEMBL290	phosphodiesterase
+CHEMBL5129	phosphodiesterase
+CHEMBL254	phosphodiesterase
+CHEMBL275	phosphodiesterase
+CHEMBL291	phosphodiesterase
+CHEMBL288	phosphodiesterase
+CHEMBL1827	phosphodiesterase
+CHEMBL3478	phosphodiesterase
+CHEMBL4567	phosphodiesterase
+CHEMBL3741	phosphodiesterase
+CHEMBL3479	phosphodiesterase
+CHEMBL3977	phosphodiesterase
+CHEMBL3012	phosphodiesterase
+CHEMBL4716	phosphodiesterase
+CHEMBL4640	phosphodiesterase
+CHEMBL4408	phosphodiesterase
+CHEMBL3535	phosphodiesterase
+CHEMBL2581	Aspartic protease
+CHEMBL2136	Aspartic protease
+CHEMBL2714	Aspartic protease
+CHEMBL2525	Aspartic protease
+CHEMBL286	Aspartic protease
+CHEMBL2615	Aspartic protease
+CHEMBL3092	Aspartic protease
+CHEMBL2322	Aspartic protease
+CHEMBL4822	Aspartic protease
+CHEMBL3295	Aspartic protease
+CHEMBL4106	Aspartic protease
+CHEMBL4687	Aspartic protease
+CHEMBL4414	Aspartic protease
+CHEMBL4593	Aspartic protease
+CHEMBL6021	Aspartic protease
+CHEMBL6056	Aspartic protease
+CHEMBL243	Aspartic protease
+CHEMBL5074	Aspartic protease
+CHEMBL6195	Cysteine protease
+CHEMBL4072	Cysteine protease
+CHEMBL4779	Cysteine protease
+CHEMBL3563	Cysteine protease
+CHEMBL2517	Cysteine protease
+CHEMBL268	Cysteine protease
+CHEMBL3034	Cysteine protease
+CHEMBL2113	Cysteine protease
+CHEMBL3837	Cysteine protease
+CHEMBL2954	Cysteine protease
+CHEMBL2225	Cysteine protease
+CHEMBL2305	Cysteine protease
+CHEMBL2252	Cysteine protease
+CHEMBL3272	Cysteine protease
+CHEMBL2602	Cysteine protease
+CHEMBL3821	Cysteine protease
+CHEMBL3349	Cysteine protease
+CHEMBL4188	Cysteine protease
+CHEMBL4510	Cysteine protease
+CHEMBL4751	Cysteine protease
+CHEMBL3488	Cysteine protease
+CHEMBL4098	Cysteine protease
+CHEMBL4160	Cysteine protease
+CHEMBL5291	Cysteine protease
+CHEMBL5187	Cysteine protease
+CHEMBL1075277	Cysteine protease
+CHEMBL1075217	Cysteine protease
+CHEMBL5832	Cysteine protease
+CHEMBL2334	Cysteine protease
+CHEMBL4884	Cysteine protease
+CHEMBL3776	Cysteine protease
+CHEMBL2226	Cysteine protease
+CHEMBL3131	Cysteine protease
+CHEMBL4801	Cysteine protease
+CHEMBL4800	Cysteine protease
+CHEMBL3308	Cysteine protease
+CHEMBL2273	Cysteine protease
+CHEMBL3468	Cysteine protease
+CHEMBL5037	Cysteine protease
+CHEMBL5991	Cysteine protease
+CHEMBL1075276	Cysteine protease
+CHEMBL1808	Metallo protease
+CHEMBL4074	Metallo protease
+CHEMBL3736	Metallo protease
+CHEMBL2625	Metallo protease
+CHEMBL1075286	Metallo protease
+CHEMBL4707	Metallo protease
+CHEMBL4944	Metallo protease
+CHEMBL280	Metallo protease
+CHEMBL2963	Metallo protease
+CHEMBL2200	Metallo protease
+CHEMBL3095	Metallo protease
+CHEMBL283	Metallo protease
+CHEMBL4588	Metallo protease
+CHEMBL3869	Metallo protease
+CHEMBL2867	Metallo protease
+CHEMBL4393	Metallo protease
+CHEMBL2214	Metallo protease
+CHEMBL321	Metallo protease
+CHEMBL4270	Metallo protease
+CHEMBL4073	Metallo protease
+CHEMBL3412	Metallo protease
+CHEMBL2594	Metallo protease
+CHEMBL332	Metallo protease
+CHEMBL333	Metallo protease
+CHEMBL5506	Metallo protease
+CHEMBL1075175	Metallo protease
+CHEMBL3706	Metallo protease
+CHEMBL3332	Metallo protease
+CHEMBL4379	Metallo protease
+CHEMBL2474	Metallo protease
+CHEMBL2526	Metallo protease
+CHEMBL3922	Metallo protease
+CHEMBL1075272	Metallo protease
+CHEMBL3750	Metallo protease
+CHEMBL1892	Metallo protease
+CHEMBL204	Serine protease
+CHEMBL1801	Serine protease
+CHEMBL2000	Serine protease
+CHEMBL209	Serine protease
+CHEMBL2016	Serine protease
+CHEMBL244	Serine protease
+CHEMBL3000	Serine protease
+CHEMBL248	Serine protease
+CHEMBL2442	Serine protease
+CHEMBL2443	Serine protease
+CHEMBL4068	Serine protease
+CHEMBL3314	Serine protease
+CHEMBL3517	Serine protease
+CHEMBL2099	Serine protease
+CHEMBL4471	Serine protease
+CHEMBL4472	Serine protease
+CHEMBL3769	Serine protease
+CHEMBL2366	Serine protease
+CHEMBL4071	Serine protease
+CHEMBL3913	Serine protease
+CHEMBL3078	Serine protease
+CHEMBL4796	Serine protease
+CHEMBL2407	Serine protease
+CHEMBL2820	Serine protease
+CHEMBL2821	Serine protease
+CHEMBL1873	Serine protease
+CHEMBL2386	Serine protease
+CHEMBL3286	Serine protease
+CHEMBL3991	Serine protease
+CHEMBL2738	Serine protease
+CHEMBL4446	Serine protease
+CHEMBL4447	Serine protease
+CHEMBL4448	Serine protease
+CHEMBL2617	Serine protease
+CHEMBL3018	Serine protease
+CHEMBL3204	Serine protease
+CHEMBL4444	Serine protease
+CHEMBL4955	Serine protease
+CHEMBL2319	Serine protease
+CHEMBL3656	Serine protease
+CHEMBL4290	Serine protease
+CHEMBL5062	Serine protease
+CHEMBL3755	Serine protease
+CHEMBL4700	Serine protease
+CHEMBL4749	Serine protease
+CHEMBL3320	Serine protease
+CHEMBL5384	Serine protease
+CHEMBL5610	Serine protease
+CHEMBL5156	Serine protease
+CHEMBL5622	Serine protease
+CHEMBL5731	Serine protease
+CHEMBL1075299	Serine protease
+CHEMBL1075308	Serine protease
+CHEMBL1075311	Serine protease
+CHEMBL1075245	Serine protease
+CHEMBL1075030	Serine protease
+CHEMBL4675	Serine protease
+CHEMBL1075070	Serine protease
+CHEMBL5916	Serine protease
+CHEMBL6156	Serine protease
+CHEMBL4861	Serine protease
+CHEMBL2433	Serine protease
+CHEMBL2232	Serine protease
+CHEMBL2826	Serine protease
+CHEMBL2611	Serine protease
+CHEMBL3182	Serine protease
+CHEMBL2951	Serine protease
+CHEMBL5507	Serine protease
+CHEMBL6115	Serine protease
+CHEMBL2335	Serine protease
+CHEMBL3976	Serine protease
+CHEMBL4352	Serine protease
+CHEMBL1968	Serine protease
+CHEMBL2409	Serine protease
+CHEMBL4140	Serine protease
+CHEMBL2460	Serine protease
+CHEMBL4935	Serine protease
+CHEMBL2461	Serine protease
+CHEMBL4035	Serine protease
+CHEMBL3202	Serine protease
+CHEMBL6043	Serine protease
+CHEMBL2559	Serine protease
+CHEMBL3813	Serine protease
+CHEMBL4653	Serine protease
+CHEMBL284	Serine protease
+CHEMBL3883	Serine protease
+CHEMBL4657	Serine protease
+CHEMBL4793	Serine protease
+CHEMBL4683	Serine protease
+CHEMBL5769	Serine protease
+CHEMBL2565	Serine protease
+CHEMBL3825	Serine protease
+CHEMBL1952	Transferase
+CHEMBL1782	Transferase
+CHEMBL2023	Transferase
+CHEMBL2044	Transferase
+CHEMBL2063	Transferase
+CHEMBL1993	Transferase
+CHEMBL4158	Transferase
+CHEMBL5375	Transferase
+CHEMBL4844	Transferase
+CHEMBL202	Reductase
+CHEMBL1935	Reductase
+CHEMBL2002	Reductase
+CHEMBL1973	Reductase
+CHEMBL1787	Reductase
+CHEMBL1822	Reductase
+CHEMBL1951	Reductase
+CHEMBL221	Reductase
+CHEMBL2039	Reductase
+CHEMBL1856	Reductase
+CHEMBL230	Reductase
+CHEMBL1849	Reductase
+CHEMBL1966	Reductase
+CHEMBL1927	Reductase
+CHEMBL1911	Reductase
+CHEMBL1926	Reductase
+CHEMBL2755	Reductase
+CHEMBL2065	hydrolase
+CHEMBL1910	hydrolase
+CHEMBL2051	hydrolase
+CHEMBL220	hydrolase
+CHEMBL1914	hydrolase
+CHEMBL3192	hydrolase
+CHEMBL5103	hydrolase
+CHEMBL1937	hydrolase
+CHEMBL1829	hydrolase
+CHEMBL3524	hydrolase
+CHEMBL1865	hydrolase
+CHEMBL4145	hydrolase
+CHEMBL3310	hydrolase
+CHEMBL2563	hydrolase
+CHEMBL2716	hydrolase
+CHEMBL3471	hydrolase
+CHEMBL325	hydrolase
+CHEMBL2922	 cytochrome p450
+CHEMBL3356	 cytochrome p450
+CHEMBL4878	 cytochrome p450
+CHEMBL4813	 cytochrome p450
+CHEMBL5246	 cytochrome p450
+CHEMBL1908	 cytochrome p450
+CHEMBL2927	 cytochrome p450
+CHEMBL4970	 cytochrome p450
+CHEMBL2722	 cytochrome p450
+CHEMBL3522	 cytochrome p450
+CHEMBL4430	 cytochrome p450
+CHEMBL1978	 cytochrome p450
+CHEMBL3859	 cytochrome p450
+CHEMBL3622	 cytochrome p450
+CHEMBL3397	 cytochrome p450
+CHEMBL289	 cytochrome p450
+CHEMBL5281	 cytochrome p450
+CHEMBL3748	 cytochrome p450
+CHEMBL5141	 cytochrome p450
+CHEMBL340	 cytochrome p450
+CHEMBL4743	 cytochrome p450
+CHEMBL1835	 cytochrome p450
+CHEMBL4981	 cytochrome p450
+CHEMBL3849	 cytochrome p450
+CHEMBL2339	 cytochrome p450
+CHEMBL3575	protein kinase
+CHEMBL2687	protein kinase
+CHEMBL2431	protein kinase
+CHEMBL4816	protein kinase
+CHEMBL4282	protein kinase
+CHEMBL5859	protein kinase
+CHEMBL5579	protein kinase
+CHEMBL4516	protein kinase
+CHEMBL5320	protein kinase
+CHEMBL5615	protein kinase
+CHEMBL5052	protein kinase
+CHEMBL3231	protein kinase
+CHEMBL2973	protein kinase
+CHEMBL5490	protein kinase
+CHEMBL5509	protein kinase
+CHEMBL4079	protein kinase
+CHEMBL5607	protein kinase
+CHEMBL5861	protein kinase
+CHEMBL1075133	protein kinase
+CHEMBL1163128	protein kinase
+CHEMBL4851	protein kinase
+CHEMBL6167	protein kinase
+CHEMBL5907	protein kinase
+CHEMBL1075155	protein kinase
+CHEMBL2534	protein kinase
+CHEMBL2918	protein kinase
+CHEMBL4101	protein kinase
+CHEMBL3390	protein kinase
+CHEMBL4885	protein kinase
+CHEMBL5818	protein kinase
+CHEMBL2938	protein kinase
+CHEMBL299	protein kinase
+CHEMBL3045	protein kinase
+CHEMBL3020	protein kinase
+CHEMBL2213	protein kinase
+CHEMBL2855	protein kinase
+CHEMBL2567	protein kinase
+CHEMBL3604	protein kinase
+CHEMBL2560	protein kinase
+CHEMBL2996	protein kinase
+CHEMBL3920	protein kinase
+CHEMBL3582	protein kinase
+CHEMBL3424	protein kinase
+CHEMBL3616	protein kinase
+CHEMBL4992	protein kinase
+CHEMBL4366	protein kinase
+CHEMBL3438	protein kinase
+CHEMBL2598	protein kinase
+CHEMBL1075295	protein kinase
+CHEMBL5515	protein kinase
+CHEMBL2896	protein kinase
+CHEMBL4273	protein kinase
+CHEMBL3183	protein kinase
+CHEMBL5036	protein kinase
+CHEMBL3032	protein kinase
+CHEMBL3384	protein kinase
+CHEMBL3125	protein kinase
+CHEMBL4237	protein kinase
+CHEMBL4501	protein kinase
+CHEMBL2553	protein kinase
+CHEMBL4924	protein kinase
+CHEMBL3906	protein kinase
+CHEMBL2345	protein kinase
+CHEMBL2343	protein kinase
+CHEMBL6186	protein kinase
+CHEMBL6150	protein kinase
+CHEMBL5405	protein kinase
+CHEMBL5912	protein kinase
+CHEMBL2493	protein kinase
+CHEMBL2494	protein kinase
+CHEMBL5560	protein kinase
+CHEMBL5073	protein kinase
+CHEMBL5258	protein kinase
+CHEMBL4121	protein kinase
+CHEMBL2801	protein kinase
+CHEMBL4147	protein kinase
+CHEMBL3829	protein kinase
+CHEMBL2116	protein kinase
+CHEMBL4045	protein kinase
+CHEMBL4533	protein kinase
+CHEMBL4637	protein kinase
+CHEMBL4574	protein kinase
+CHEMBL5650	protein kinase
+CHEMBL4630	protein kinase
+CHEMBL5606	protein kinase
+CHEMBL3831	protein kinase
+CHEMBL5600	protein kinase
+CHEMBL5754	protein kinase
+CHEMBL5940	protein kinase
+CHEMBL4578	protein kinase
+CHEMBL3542	protein kinase
+CHEMBL5784	protein kinase
+CHEMBL5698	protein kinase
+CHEMBL6082	protein kinase
+CHEMBL5699	protein kinase
+CHEMBL6149	protein kinase
+CHEMBL6005	protein kinase
+CHEMBL2468	protein kinase
+CHEMBL3123	protein kinase
+CHEMBL2558	protein kinase
+CHEMBL3980	protein kinase
+CHEMBL4525	protein kinase
+CHEMBL5519	protein kinase
+CHEMBL5683	protein kinase
+CHEMBL6123	protein kinase
+CHEMBL2208	protein kinase
+CHEMBL3094	protein kinase
+CHEMBL4990	protein kinase
+CHEMBL4670	protein kinase
+CHEMBL4204	protein kinase
+CHEMBL4718	protein kinase
+CHEMBL2428	protein kinase
+CHEMBL3062	protein kinase
+CHEMBL2777	protein kinase
+CHEMBL4627	protein kinase
+CHEMBL5426	protein kinase
+CHEMBL4004	protein kinase
+CHEMBL2349	protein kinase
+CHEMBL2147	protein kinase
+CHEMBL4523	protein kinase
+CHEMBL5407	protein kinase
+CHEMBL2595	protein kinase
+CHEMBL3863	protein kinase
+CHEMBL4900	protein kinase
+CHEMBL2527	protein kinase
+CHEMBL3125	protein kinase
+CHEMBL4237	protein kinase
+CHEMBL2553	protein kinase
+CHEMBL4924	protein kinase
+CHEMBL3906	protein kinase
+CHEMBL2345	protein kinase
+CHEMBL6003	protein kinase
+CHEMBL2426	protein kinase
+CHEMBL2828	protein kinase
+CHEMBL4937	protein kinase
+CHEMBL2543	protein kinase
+CHEMBL2793	protein kinase
+CHEMBL4484	protein kinase
+CHEMBL5520	protein kinase
+CHEMBL5084	protein kinase
+CHEMBL2508	protein kinase
+CHEMBL331	protein kinase
+CHEMBL4090	protein kinase
+CHEMBL301	protein kinase
+CHEMBL308	protein kinase
+CHEMBL4442	protein kinase
+CHEMBL5213	protein kinase
+CHEMBL4036	protein kinase
+CHEMBL5589	protein kinase
+CHEMBL5901	protein kinase
+CHEMBL3055	protein kinase
+CHEMBL5719	protein kinase
+CHEMBL6002	protein kinase
+CHEMBL3116	protein kinase
+CHEMBL5316	protein kinase
+CHEMBL5790	protein kinase
+CHEMBL5856	protein kinase
+CHEMBL6162	protein kinase
+CHEMBL5416	protein kinase
+CHEMBL5808	protein kinase
+CHEMBL4597	protein kinase
+CHEMBL1163112	protein kinase
+CHEMBL1163117	protein kinase
+CHEMBL5728	protein kinase
+CHEMBL5789	protein kinase
+CHEMBL1075255	protein kinase
+CHEMBL4514	protein kinase
+CHEMBL5427	protein kinase
+CHEMBL1075167	protein kinase
+CHEMBL262	protein kinase
+CHEMBL2850	protein kinase
+CHEMBL3669	protein kinase
+CHEMBL1075321	protein kinase
+CHEMBL5198	protein kinase
+CHEMBL4040	protein kinase
+CHEMBL3385	protein kinase
+CHEMBL5233	protein kinase
+CHEMBL5121	protein kinase
+CHEMBL5759	protein kinase
+CHEMBL5332	protein kinase
+CHEMBL4179	protein kinase
+CHEMBL2637	protein kinase
+CHEMBL2276	protein kinase
+CHEMBL5718	protein kinase
+CHEMBL5364	protein kinase
+CHEMBL3961	protein kinase
+CHEMBL260	protein kinase
+CHEMBL2939	protein kinase
+CHEMBL4335	protein kinase
+CHEMBL2336	protein kinase
+CHEMBL4674	protein kinase
+CHEMBL1163106	protein kinase
+CHEMBL1163126	protein kinase
+CHEMBL4375	protein kinase
+CHEMBL5415	protein kinase
+CHEMBL5668	protein kinase
+CHEMBL3476	protein kinase
+CHEMBL1991	protein kinase
+CHEMBL3529	protein kinase
+CHEMBL2185	protein kinase
+CHEMBL4722	protein kinase
+CHEMBL3935	protein kinase
+CHEMBL2211	protein kinase
+CHEMBL1075275	protein kinase
+CHEMBL5256	protein kinase
+CHEMBL5284	protein kinase
+CHEMBL5443	protein kinase
+CHEMBL3629	protein kinase
+CHEMBL4070	protein kinase
+CHEMBL1075163	protein kinase
+CHEMBL5408	protein kinase
+CHEMBL6012	protein kinase
+CHEMBL4355	protein kinase
+CHEMBL3830	protein kinase
+CHEMBL3938	protein kinase
+CHEMBL4522	protein kinase
+CHEMBL3835	protein kinase
+CHEMBL5257	protein kinase
+CHEMBL4309	protein kinase
+CHEMBL4849	protein kinase
+CHEMBL5044	protein kinase
+CHEMBL5819	protein kinase
+CHEMBL5855	protein kinase
+CHEMBL5679	protein kinase
+CHEMBL5638	protein kinase
+CHEMBL5116	protein kinase
+CHEMBL1163129	protein kinase
+CHEMBL5651	protein kinase
+CHEMBL5358	protein kinase
+CHEMBL6029	protein kinase
+CHEMBL6030	protein kinase
+CHEMBL5785	protein kinase
+CHEMBL3024	protein kinase
+CHEMBL3788	protein kinase
+CHEMBL4897	protein kinase
+CHEMBL5938	protein kinase
+CHEMBL5388	protein kinase
+CHEMBL5404	protein kinase
+CHEMBL4896	protein kinase
+CHEMBL4312	protein kinase
+CHEMBL3832	protein kinase
+CHEMBL5047	protein kinase
+CHEMBL5435	protein kinase
+CHEMBL6006	protein kinase
+CHEMBL5491	protein kinase
+CHEMBL5095	protein kinase
+CHEMBL3847	protein kinase
+CHEMBL6191	protein kinase
+CHEMBL5914	protein kinase
+CHEMBL3956	protein kinase
+CHEMBL5285	protein kinase
+CHEMBL4853	protein kinase
+CHEMBL4899	protein kinase
+CHEMBL1163123	protein kinase
+CHEMBL1163127	protein kinase
+CHEMBL5970	protein kinase
+CHEMBL1163104	protein kinase
+CHEMBL1163108	protein kinase
+CHEMBL4852	protein kinase
+CHEMBL5330	protein kinase
+CHEMBL5432	protein kinase
+CHEMBL5749	protein kinase
+CHEMBL4527	protein kinase
+CHEMBL5518	protein kinase
+CHEMBL6166	protein kinase
+CHEMBL4708	protein kinase
+CHEMBL4598	protein kinase
+CHEMBL4310	protein kinase
+CHEMBL5546	protein kinase
+CHEMBL5654	protein kinase
+CHEMBL2999	protein kinase
+CHEMBL4600	protein kinase
+CHEMBL4487	protein kinase
+CHEMBL4311	protein kinase
+CHEMBL4524	protein kinase
+CHEMBL4482	protein kinase
+CHEMBL3981	protein kinase
+CHEMBL4202	protein kinase
+CHEMBL5261	protein kinase
+CHEMBL5701	protein kinase
+CHEMBL1075195	protein kinase
+CHEMBL5082	protein kinase
+CHEMBL5552	protein kinase
+CHEMBL5941	protein kinase
+CHEMBL5358	protein kinase
+CHEMBL5888	protein kinase
+CHEMBL5081	protein kinase
+CHEMBL3836	protein kinase
+CHEMBL5932	protein kinase
+CHEMBL1075104	protein kinase
+CHEMBL5260	protein kinase
+CHEMBL5247	protein kinase
+CHEMBL1163124	protein kinase
+CHEMBL5776	protein kinase
+CHEMBL5014	protein kinase
+CHEMBL5547	protein kinase
+CHEMBL6083	protein kinase
+CHEMBL5903	protein kinase
+CHEMBL4247	protein kinase
+CHEMBL5275	protein kinase
+CHEMBL5310	protein kinase
+CHEMBL5311	protein kinase
+CHEMBL5476	protein kinase
+CHEMBL5466	protein kinase
+CHEMBL5467	protein kinase
+CHEMBL5616	protein kinase
+CHEMBL4224	protein kinase
+CHEMBL4225	protein kinase
+CHEMBL4226	protein kinase
+CHEMBL4203	protein kinase
+CHEMBL2292	protein kinase
+CHEMBL4750	protein kinase
+CHEMBL5543	protein kinase
+CHEMBL4376	protein kinase
+CHEMBL4575	protein kinase
+CHEMBL4576	protein kinase
+CHEMBL4577	protein kinase
+CHEMBL3983	protein kinase
+CHEMBL3984	protein kinase
+CHEMBL2171	protein kinase
+CHEMBL4948	protein kinase
+CHEMBL2109	protein kinase
+CHEMBL2964	protein kinase
+CHEMBL2897	protein kinase
+CHEMBL3587	protein kinase
+CHEMBL3530	protein kinase
+CHEMBL3357	protein kinase
+CHEMBL3778	protein kinase
+CHEMBL5604	protein kinase
+CHEMBL2708	protein kinase
+CHEMBL2873	protein kinase
+CHEMBL2872	protein kinase
+CHEMBL3886	protein kinase
+CHEMBL1906	protein kinase
+CHEMBL5145	protein kinase
+CHEMBL4439	protein kinase
+CHEMBL4267	protein kinase
+CHEMBL1862	protein kinase
+CHEMBL4014	protein kinase
+CHEMBL3099	protein kinase
+CHEMBL5166	protein kinase
+CHEMBL4599	protein kinase
+CHEMBL5334	protein kinase
+CHEMBL5771	protein kinase
+CHEMBL5627	protein kinase
+CHEMBL4895	protein kinase
+CHEMBL5314	protein kinase
+CHEMBL5331	protein kinase
+CHEMBL2634	protein kinase
+CHEMBL4175	protein kinase
+CHEMBL5319	protein kinase
+CHEMBL5122	protein kinase
+CHEMBL203	protein kinase
+CHEMBL1824	protein kinase
+CHEMBL3608	protein kinase
+CHEMBL3848	protein kinase
+CHEMBL3009	protein kinase
+CHEMBL5838	protein kinase
+CHEMBL3290	protein kinase
+CHEMBL2068	protein kinase
+CHEMBL4954	protein kinase
+CHEMBL4134	protein kinase
+CHEMBL3987	protein kinase
+CHEMBL5072	protein kinase
+CHEMBL3988	protein kinase
+CHEMBL4602	protein kinase
+CHEMBL4526	protein kinase
+CHEMBL5147	protein kinase
+CHEMBL4901	protein kinase
+CHEMBL5961	protein kinase
+CHEMBL5810	protein kinase
+CHEMBL2695	protein kinase
+CHEMBL1075289	protein kinase
+CHEMBL5469	protein kinase
+CHEMBL3982	protein kinase
+CHEMBL5455	protein kinase
+CHEMBL5708	protein kinase
+CHEMBL3650	protein kinase
+CHEMBL3839	protein kinase
+CHEMBL4066	protein kinase
+CHEMBL3973	protein kinase
+CHEMBL2742	protein kinase
+CHEMBL3960	protein kinase
+CHEMBL1981	protein kinase
+CHEMBL1957	protein kinase
+CHEMBL3187	protein kinase
+CHEMBL5381	protein kinase
+CHEMBL5486	protein kinase
+CHEMBL1075098	protein kinase
+CHEMBL5483	protein kinase
+CHEMBL2148	protein kinase
+CHEMBL2835	protein kinase
+CHEMBL2968	protein kinase
+CHEMBL2971	protein kinase
+CHEMBL3553	protein kinase
+CHEMBL5250	protein kinase
+CHEMBL2148	protein kinase
+CHEMBL2835	protein kinase
+CHEMBL2968	protein kinase
+CHEMBL2971	protein kinase
+CHEMBL3553	protein kinase
+CHEMBL5250	protein kinase
+CHEMBL2689	protein kinase
+CHEMBL3717	protein kinase
+CHEMBL5585	protein kinase
+CHEMBL5684	protein kinase
+CHEMBL1913	protein kinase
+CHEMBL1936	protein kinase
+CHEMBL2749	protein kinase
+CHEMBL2007	protein kinase
+CHEMBL1974	protein kinase
+CHEMBL1844	protein kinase
+CHEMBL5570	protein kinase
+CHEMBL2041	protein kinase
+CHEMBL5568	protein kinase
+CHEMBL258	protein kinase
+CHEMBL2480	protein kinase
+CHEMBL267	protein kinase
+CHEMBL2250	protein kinase
+CHEMBL1841	protein kinase
+CHEMBL3234	protein kinase
+CHEMBL3343	protein kinase
+CHEMBL3905	protein kinase
+CHEMBL3074	protein kinase
+CHEMBL3014	protein kinase
+CHEMBL2258	protein kinase
+CHEMBL3655	protein kinase
+CHEMBL2073	protein kinase
+CHEMBL4223	protein kinase
+CHEMBL4601	protein kinase
+CHEMBL4454	protein kinase
+CHEMBL4362	protein kinase
+CHEMBL4363	protein kinase
+CHEMBL5703	protein kinase
+CHEMBL2599	protein kinase
+CHEMBL2803	protein kinase
+CHEMBL4364	protein kinase
+CHEMBL2959	protein kinase
+CHEMBL3834	protein kinase
+CHEMBL5251	protein kinase
+CHEMBL4246	protein kinase
+CHEMBL4367	protein kinase
+CHEMBL4128	protein kinase
+CHEMBL5199	protein kinase
+CHEMBL5274	protein kinase
+CHEMBL4142	protein kinase
+CHEMBL2815	protein kinase
+CHEMBL4898	protein kinase
+CHEMBL5608	protein kinase
+CHEMBL1868	protein kinase
+CHEMBL279	protein kinase
+CHEMBL1955	protein kinase
+CHEMBL3516	protein kinase
+CHEMBL3337	protein kinase
+CHEMBL1899	ligand-gated ion channel
+CHEMBL4972	ligand-gated ion channel
+CHEMBL3895	ligand-gated ion channel
+CHEMBL2411	ligand-gated ion channel
+CHEMBL3666	ligand-gated ion channel
+CHEMBL2584	ligand-gated ion channel
+CHEMBL4747	ligand-gated ion channel
+CHEMBL2492	ligand-gated ion channel
+CHEMBL2184	ligand-gated ion channel
+CHEMBL3818	ligand-gated ion channel
+CHEMBL1882	ligand-gated ion channel
+CHEMBL3068	ligand-gated ion channel
+CHEMBL3365	ligand-gated ion channel
+CHEMBL307	ligand-gated ion channel
+CHEMBL4980	ligand-gated ion channel
+CHEMBL3986	ligand-gated ion channel
+CHEMBL1962	ligand-gated ion channel
+CHEMBL2472	ligand-gated ion channel
+CHEMBL5112	ligand-gated ion channel
+CHEMBL2579	ligand-gated ion channel
+CHEMBL293	ligand-gated ion channel
+CHEMBL300	ligand-gated ion channel
+CHEMBL3026	ligand-gated ion channel
+CHEMBL328	ligand-gated ion channel
+CHEMBL4956	ligand-gated ion channel
+CHEMBL341	ligand-gated ion channel
+CHEMBL343	ligand-gated ion channel
+CHEMBL1847	ligand-gated ion channel
+CHEMBL296	ligand-gated ion channel
+CHEMBL3561	ligand-gated ion channel
+CHEMBL3246	ligand-gated ion channel
+CHEMBL2328	ligand-gated ion channel
+CHEMBL5845	ligand-gated ion channel
+CHEMBL5871	ligand-gated ion channel
+CHEMBL1075092	ligand-gated ion channel
+CHEMBL4016	ligand-gated ion channel
+CHEMBL3505	ligand-gated ion channel
+CHEMBL3504	ligand-gated ion channel
+CHEMBL3503	ligand-gated ion channel
+CHEMBL3753	ligand-gated ion channel
+CHEMBL3684	ligand-gated ion channel
+CHEMBL2675	ligand-gated ion channel
+CHEMBL3607	ligand-gated ion channel
+CHEMBL3683	ligand-gated ion channel
+CHEMBL2919	ligand-gated ion channel
+CHEMBL4041	ligand-gated ion channel
+CHEMBL3744	ligand-gated ion channel
+CHEMBL1904	ligand-gated ion channel
+CHEMBL311	ligand-gated ion channel
+CHEMBL330	ligand-gated ion channel
+CHEMBL401	ligand-gated ion channel
+CHEMBL2104	ligand-gated ion channel
+CHEMBL4805	ligand-gated ion channel
+CHEMBL2094	ligand-gated ion channel
+CHEMBL2496	ligand-gated ion channel
+CHEMBL2998	ligand-gated ion channel
+CHEMBL2818	ligand-gated ion channel
+CHEMBL5183	ligand-gated ion channel
+CHEMBL1971	ion channel others
+CHEMBL2804	ion channel others
+CHEMBL2133	ion channel others
+CHEMBL3288	ion channel others
+CHEMBL2071	ion channel others
+CHEMBL3119	ion channel others
+CHEMBL5102	ion channel others
+CHEMBL2775	ion channel others
+CHEMBL6126	ion channel others
+CHEMBL2321618	ion channel others
+CHEMBL4907	ion channel others
+CHEMBL4169	ion channel others
+CHEMBL1940	ion channel others
+CHEMBL2529	ion channel others
+CHEMBL3762	ion channel others
+CHEMBL2830	ion channel others
+CHEMBL4108	ion channel others
+CHEMBL4478	ion channel others
+CHEMBL5107	ion channel others
+CHEMBL1859	ion channel others
+CHEMBL4641	ion channel others
+CHEMBL5558	ion channel others
+CHEMBL4306	ion channel others
+CHEMBL4633	ion channel others
+CHEMBL240	ion channel others
+CHEMBL4304	ion channel others
+CHEMBL5505	ion channel others
+CHEMBL5135	ion channel others
+CHEMBL2476	ion channel others
+CHEMBL3576	ion channel others
+CHEMBL2925	ion channel others
+CHEMBL2684	ion channel others
+CHEMBL1845	ion channel others
+CHEMBL4906	ion channel others
+CHEMBL3399	ion channel others
+CHEMBL4966	ion channel others
+CHEMBL3312	ion channel others
+CHEMBL1980	ion channel others
+CHEMBL2752	ion channel others
+CHEMBL4017	ion channel others
+CHEMBL3509	ion channel others
+CHEMBL2072	ion channel others
+CHEMBL4296	ion channel others
+CHEMBL4187	ion channel others
+CHEMBL5163	ion channel others
+CHEMBL5167	ion channel others
+CHEMBL5202	ion channel others
+CHEMBL5451	ion channel others
+CHEMBL5158	ion channel others
+CHEMBL1914275	ion channel others
+CHEMBL4026	transcription factor
+CHEMBL5603	transcription factor
+CHEMBL1860	transcription factor
+CHEMBL1947	transcription factor
+CHEMBL2055	transcription factor
+CHEMBL2792	transcription factor
+CHEMBL2008	transcription factor
+CHEMBL3266	transcription factor
+CHEMBL2003	transcription factor
+CHEMBL4177	transcription factor
+CHEMBL239	transcription factor
+CHEMBL2847	transcription factor
+CHEMBL2128	transcription factor
+CHEMBL2129	transcription factor
+CHEMBL2458	transcription factor
+CHEMBL3979	transcription factor
+CHEMBL235	transcription factor
+CHEMBL2459	transcription factor
+CHEMBL4797	transcription factor
+CHEMBL1741186	transcription factor
+CHEMBL2808	transcription factor
+CHEMBL4093	transcription factor
+CHEMBL2047	transcription factor
+CHEMBL1977	transcription factor
+CHEMBL2353	transcription factor
+CHEMBL3150	transcription factor
+CHEMBL3452	transcription factor
+CHEMBL5601	transcription factor
+CHEMBL3401	transcription factor
+CHEMBL2061	transcription factor
+CHEMBL3084	transcription factor
+CHEMBL4431	transcription factor
+CHEMBL1870	transcription factor
+CHEMBL4047	transcription factor
+CHEMBL2805	transcription factor
+CHEMBL2004	transcription factor
+CHEMBL4402	transcription factor
+CHEMBL5716	transcription factor
+CHEMBL206	transcription factor
+CHEMBL3065	transcription factor
+CHEMBL2724	transcription factor
+CHEMBL242	transcription factor
+CHEMBL3021	transcription factor
+CHEMBL2995	transcription factor
+CHEMBL3429	transcription factor
+CHEMBL3751	transcription factor
+CHEMBL4245	transcription factor
+CHEMBL2034	transcription factor
+CHEMBL3368	transcription factor
+CHEMBL3144	transcription factor
+CHEMBL1994	transcription factor
+CHEMBL3507	transcription factor
+CHEMBL208	transcription factor
+CHEMBL2596	transcription factor
+CHEMBL3456	transcription factor
+CHEMBL1871	transcription factor
+CHEMBL3056	transcription factor
+CHEMBL3072	transcription factor
+CHEMBL1293229	transcription factor
+CHEMBL5002	transcription factor
+CHEMBL4666	transcription factor
+CHEMBL3544	transcription factor
+CHEMBL6120	Transporter
+CHEMBL1641347	Transporter
+CHEMBL1641348	Transporter
+CHEMBL2781	Transporter
+CHEMBL2577	Transporter
+CHEMBL3133	Transporter
+CHEMBL4360	Transporter
+CHEMBL4605	Transporter
+CHEMBL3325	Transporter
+CHEMBL1903	Transporter
+CHEMBL5208	Transporter
+CHEMBL4889	Transporter
+CHEMBL4054	Transporter
+CHEMBL5445	Transporter
+CHEMBL5205	Transporter
+CHEMBL3699	Transporter
+CHEMBL4228	Transporter
+CHEMBL4149	Transporter
+CHEMBL4833	Transporter
+CHEMBL3173	Transporter
+CHEMBL3085	Transporter
+CHEMBL4390	Transporter
+CHEMBL4973	Transporter
+CHEMBL4190	Transporter
+CHEMBL2721	Transporter
+CHEMBL3715	Transporter
+CHEMBL3013	Transporter
+CHEMBL4507	Transporter
+CHEMBL238	Transporter
+CHEMBL2799	Transporter
+CHEMBL338	Transporter
+CHEMBL5032	Transporter
+CHEMBL4556	Transporter
+CHEMBL3060	Transporter
+CHEMBL3195	Transporter
+CHEMBL2337	Transporter
+CHEMBL222	Transporter
+CHEMBL2370	Transporter
+CHEMBL304	Transporter
+CHEMBL228	Transporter
+CHEMBL313	Transporter
+CHEMBL4642	Transporter
+CHEMBL5453	Transporter
+CHEMBL2778	Transporter
+CHEMBL5287	Transporter
+CHEMBL5374	Transporter
+CHEMBL4316	Transporter
+CHEMBL4979	Transporter
+CHEMBL3884	Transporter
+CHEMBL5685	Transporter
+CHEMBL1743122	Transporter
+CHEMBL3313	Transporter
+CHEMBL2125	Transporter
+CHEMBL4767	Transporter
+CHEMBL4828	Transporter
+CHEMBL4271	Transporter
+CHEMBL1997	Transporter
+CHEMBL4604	Transporter
+CHEMBL2601	Transporter
+CHEMBL2535	Transporter
+CHEMBL4697	Transporter
+CHEMBL4051	Transporter
+CHEMBL3467	Transporter
+CHEMBL4302	Transporter
+CHEMBL2573	Transporter
+CHEMBL3004	Transporter
+CHEMBL2683	Transporter
+CHEMBL4761	Peptide GPCR
+CHEMBL2373	Peptide GPCR
+CHEMBL2413	Peptide GPCR
+CHEMBL3473	Peptide GPCR
+CHEMBL2414	Peptide GPCR
+CHEMBL274	Peptide GPCR
+CHEMBL4015	Peptide GPCR
+CHEMBL3872	Peptide GPCR
+CHEMBL3406	Peptide GPCR
+CHEMBL3676	Peptide GPCR
+CHEMBL3928	Peptide GPCR
+CHEMBL5176	Peptide GPCR
+CHEMBL4596	Peptide GPCR
+CHEMBL5412	Peptide GPCR
+CHEMBL1075263	Peptide GPCR
+CHEMBL1293204	Peptide GPCR
+CHEMBL2176850	Peptide GPCR
+CHEMBL4843	Peptide GPCR
+CHEMBL2107	Peptide GPCR
+CHEMBL2434	Peptide GPCR
+CHEMBL4029	Peptide GPCR
+CHEMBL4441	Peptide GPCR
+CHEMBL5200	Peptide GPCR
+CHEMBL5556	Peptide GPCR
+CHEMBL1075172	Peptide GPCR
+CHEMBL1075186	Peptide GPCR
+CHEMBL1075194	Peptide GPCR
+CHEMBL2010631	Peptide GPCR
+CHEMBL3540	Peptide GPCR
+CHEMBL1854	Peptide GPCR
+CHEMBL2024	Peptide GPCR
+CHEMBL4227	Peptide GPCR
+CHEMBL3359	Peptide GPCR
+CHEMBL3974	Peptide GPCR
+CHEMBL227	Peptide GPCR
+CHEMBL257	Peptide GPCR
+CHEMBL263	Peptide GPCR
+CHEMBL4607	Peptide GPCR
+CHEMBL3374	Peptide GPCR
+CHEMBL329	Peptide GPCR
+CHEMBL3948	Peptide GPCR
+CHEMBL5743	Peptide GPCR
+CHEMBL1163122	Peptide GPCR
+CHEMBL1671613	Peptide GPCR
+CHEMBL3157	Peptide GPCR
+CHEMBL2501	Peptide GPCR
+CHEMBL4613	Peptide GPCR
+CHEMBL4308	Peptide GPCR
+CHEMBL4111	Peptide GPCR
+CHEMBL4724	Peptide GPCR
+CHEMBL4087	Peptide GPCR
+CHEMBL1901	Peptide GPCR
+CHEMBL298	Peptide GPCR
+CHEMBL2854	Peptide GPCR
+CHEMBL2720	Peptide GPCR
+CHEMBL2871	Peptide GPCR
+CHEMBL3508	Peptide GPCR
+CHEMBL3501	Peptide GPCR
+CHEMBL1785	Peptide GPCR
+CHEMBL252	Peptide GPCR
+CHEMBL4631	Peptide GPCR
+CHEMBL4566	Peptide GPCR
+CHEMBL4130	Peptide GPCR
+CHEMBL4401	Peptide GPCR
+CHEMBL2286	Peptide GPCR
+CHEMBL3949	Peptide GPCR
+CHEMBL1681617	Peptide GPCR
+CHEMBL4894	Peptide GPCR
+CHEMBL3176	Peptide GPCR
+CHEMBL2731	Peptide GPCR
+CHEMBL5504	Peptide GPCR
+CHEMBL5577	Peptide GPCR
+CHEMBL1855	Peptide GPCR
+CHEMBL3066	Peptide GPCR
+CHEMBL5647	Peptide GPCR
+CHEMBL4080	Peptide GPCR
+CHEMBL4959	Peptide GPCR
+CHEMBL4616	Peptide GPCR
+CHEMBL3278	Peptide GPCR
+CHEMBL5015	Peptide GPCR
+CHEMBL5307	Peptide GPCR
+CHEMBL1075111	Peptide GPCR
+CHEMBL1075140	Peptide GPCR
+CHEMBL344	Peptide GPCR
+CHEMBL4730	Peptide GPCR
+CHEMBL5038	Peptide GPCR
+CHEMBL1075228	Peptide GPCR
+CHEMBL3719	Peptide GPCR
+CHEMBL259	Peptide GPCR
+CHEMBL4644	Peptide GPCR
+CHEMBL4774	Peptide GPCR
+CHEMBL2700	Peptide GPCR
+CHEMBL4608	Peptide GPCR
+CHEMBL3795	Peptide GPCR
+CHEMBL4489	Peptide GPCR
+CHEMBL4077	Peptide GPCR
+CHEMBL4023	Peptide GPCR
+CHEMBL2203	Peptide GPCR
+CHEMBL5306	Peptide GPCR
+CHEMBL249	Peptide GPCR
+CHEMBL2327	Peptide GPCR
+CHEMBL4027	Peptide GPCR
+CHEMBL4554	Peptide GPCR
+CHEMBL4429	Peptide GPCR
+CHEMBL3154	Peptide GPCR
+CHEMBL3942	Peptide GPCR
+CHEMBL2647	Peptide GPCR
+CHEMBL3799	Peptide GPCR
+CHEMBL3433	Peptide GPCR
+CHEMBL1764942	Peptide GPCR
+CHEMBL3636	Peptide GPCR
+CHEMBL3875	Peptide GPCR
+CHEMBL3764	Peptide GPCR
+CHEMBL4921	Peptide GPCR
+CHEMBL5226	Peptide GPCR
+CHEMBL1293293	Peptide GPCR
+CHEMBL1938219	Peptide GPCR
+CHEMBL4877	Peptide GPCR
+CHEMBL2587	Peptide GPCR
+CHEMBL4777	Peptide GPCR
+CHEMBL4018	Peptide GPCR
+CHEMBL4561	Peptide GPCR
+CHEMBL2548	Peptide GPCR
+CHEMBL3802	Peptide GPCR
+CHEMBL3570	Peptide GPCR
+CHEMBL2514	Peptide GPCR
+CHEMBL5106	Peptide GPCR
+CHEMBL4123	Peptide GPCR
+CHEMBL3027	Peptide GPCR
+CHEMBL233	Peptide GPCR
+CHEMBL236	Peptide GPCR
+CHEMBL237	Peptide GPCR
+CHEMBL2014	Peptide GPCR
+CHEMBL4329	Peptide GPCR
+CHEMBL3222	Peptide GPCR
+CHEMBL269	Peptide GPCR
+CHEMBL3614	Peptide GPCR
+CHEMBL3041	Peptide GPCR
+CHEMBL270	Peptide GPCR
+CHEMBL3621	Peptide GPCR
+CHEMBL2858	Peptide GPCR
+CHEMBL4503	Peptide GPCR
+CHEMBL3952	Peptide GPCR
+CHEMBL4354	Peptide GPCR
+CHEMBL5492	Peptide GPCR
+CHEMBL5799	Peptide GPCR
+CHEMBL5113	Peptide GPCR
+CHEMBL4792	Peptide GPCR
+CHEMBL5413	Peptide GPCR
+CHEMBL5852	Peptide GPCR
+CHEMBL5951	Peptide GPCR
+CHEMBL5952	Peptide GPCR
+CHEMBL1169599	Peptide GPCR
+CHEMBL1804	Peptide GPCR
+CHEMBL2978	Peptide GPCR
+CHEMBL1853	Peptide GPCR
+CHEMBL4652	Peptide GPCR
+CHEMBL2028	Peptide GPCR
+CHEMBL2238	Peptide GPCR
+CHEMBL1792	Peptide GPCR
+CHEMBL1917	Peptide GPCR
+CHEMBL1790	Peptide GPCR
+CHEMBL2049	Peptide GPCR
+CHEMBL1889	Peptide GPCR
+CHEMBL1921	Peptide GPCR
+CHEMBL3996	Peptide GPCR
+CHEMBL3766	Peptide GPCR
+CHEMBL2868	Peptide GPCR
+CHEMBL2659	Peptide GPCR
+CHEMBL2344	Peptide GPCR
+CHEMBL2016427	Peptide GPCR
+CHEMBL2016428	Peptide GPCR
+CHEMBL3798	Peptide GPCR
+CHEMBL4755	Peptide GPCR
+CHEMBL2034811	Peptide GPCR
+CHEMBL1832	Peptide GPCR
+CHEMBL2204	Peptide GPCR
+CHEMBL1800	Peptide GPCR
+CHEMBL4649	Peptide GPCR
+CHEMBL2253	Peptide GPCR
+CHEMBL5634	Peptide GPCR
+CHEMBL4383	Peptide GPCR
+CHEMBL5001	Peptide GPCR
+CHEMBL1985	Peptide GPCR
+CHEMBL4773	Peptide GPCR
+CHEMBL4720	Peptide GPCR
+CHEMBL1784	Peptide GPCR
+CHEMBL5862	Peptide GPCR
+CHEMBL5844	Peptide GPCR
+CHEMBL1793	Peptide GPCR
+CHEMBL6038	Peptide GPCR
+CHEMBL5144	Peptide GPCR
+CHEMBL4532	Peptide GPCR
+CHEMBL5739	GPCR others
+CHEMBL4731	GPCR others
+CHEMBL4420	GPCR others
+CHEMBL4421	GPCR others
+CHEMBL3785	GPCR others
+CHEMBL1075101	GPCR others
+CHEMBL1293267	GPCR others
+CHEMBL1878	GPCR others
+CHEMBL2516	GPCR others
+CHEMBL2888	GPCR others
+CHEMBL2851	GPCR others
+CHEMBL2736	GPCR others
+CHEMBL3842	GPCR others
+CHEMBL2718	GPCR others
+CHEMBL3772	GPCR others
+CHEMBL3227	GPCR others
+CHEMBL2787	GPCR others
+CHEMBL2564	GPCR others
+CHEMBL4477	GPCR others
+CHEMBL5137	GPCR others
+CHEMBL3879	GPCR others
+CHEMBL211	GPCR monoamine receptor
+CHEMBL216	GPCR monoamine receptor
+CHEMBL1821	GPCR monoamine receptor
+CHEMBL2035	GPCR monoamine receptor
+CHEMBL245	GPCR monoamine receptor
+CHEMBL4781	GPCR monoamine receptor
+CHEMBL276	GPCR monoamine receptor
+CHEMBL3197	GPCR monoamine receptor
+CHEMBL277	GPCR monoamine receptor
+CHEMBL3733	GPCR monoamine receptor
+CHEMBL309	GPCR monoamine receptor
+CHEMBL317	GPCR monoamine receptor
+CHEMBL320	GPCR monoamine receptor
+CHEMBL5498	GPCR monoamine receptor
+CHEMBL210	GPCR monoamine receptor
+CHEMBL213	GPCR monoamine receptor
+CHEMBL1867	GPCR monoamine receptor
+CHEMBL223	GPCR monoamine receptor
+CHEMBL229	GPCR monoamine receptor
+CHEMBL232	GPCR monoamine receptor
+CHEMBL1942	GPCR monoamine receptor
+CHEMBL1916	GPCR monoamine receptor
+CHEMBL246	GPCR monoamine receptor
+CHEMBL3373	GPCR monoamine receptor
+CHEMBL266	GPCR monoamine receptor
+CHEMBL4892	GPCR monoamine receptor
+CHEMBL3252	GPCR monoamine receptor
+CHEMBL315	GPCR monoamine receptor
+CHEMBL319	GPCR monoamine receptor
+CHEMBL326	GPCR monoamine receptor
+CHEMBL327	GPCR monoamine receptor
+CHEMBL2289	GPCR monoamine receptor
+CHEMBL3754	GPCR monoamine receptor
+CHEMBL3122	GPCR monoamine receptor
+CHEMBL5414	GPCR monoamine receptor
+CHEMBL5471	GPCR monoamine receptor
+CHEMBL5943	GPCR monoamine receptor
+CHEMBL1926490	GPCR monoamine receptor
+CHEMBL217	GPCR monoamine receptor
+CHEMBL2056	GPCR monoamine receptor
+CHEMBL219	GPCR monoamine receptor
+CHEMBL234	GPCR monoamine receptor
+CHEMBL1850	GPCR monoamine receptor
+CHEMBL265	GPCR monoamine receptor
+CHEMBL3071	GPCR monoamine receptor
+CHEMBL3998	GPCR monoamine receptor
+CHEMBL3427	GPCR monoamine receptor
+CHEMBL3138	GPCR monoamine receptor
+CHEMBL2967	GPCR monoamine receptor
+CHEMBL3361	GPCR monoamine receptor
+CHEMBL2281	GPCR monoamine receptor
+CHEMBL339	GPCR monoamine receptor
+CHEMBL5067	GPCR monoamine receptor
+CHEMBL5456	GPCR monoamine receptor
+CHEMBL1941	GPCR monoamine receptor
+CHEMBL231	GPCR monoamine receptor
+CHEMBL2882	GPCR monoamine receptor
+CHEMBL264	GPCR monoamine receptor
+CHEMBL4468	GPCR monoamine receptor
+CHEMBL3759	GPCR monoamine receptor
+CHEMBL4701	GPCR monoamine receptor
+CHEMBL3263	GPCR monoamine receptor
+CHEMBL4124	GPCR monoamine receptor
+CHEMBL4322	GPCR monoamine receptor
+CHEMBL3943	GPCR monoamine receptor
+CHEMBL5076	GPCR monoamine receptor
+CHEMBL5299	GPCR monoamine receptor
+CHEMBL5657	GPCR monoamine receptor
+CHEMBL1255160	GPCR monoamine receptor
+CHEMBL214	GPCR monoamine receptor
+CHEMBL1983	GPCR monoamine receptor
+CHEMBL1898	GPCR monoamine receptor
+CHEMBL224	GPCR monoamine receptor
+CHEMBL225	GPCR monoamine receptor
+CHEMBL1875	GPCR monoamine receptor
+CHEMBL1833	GPCR monoamine receptor
+CHEMBL1805	GPCR monoamine receptor
+CHEMBL4764	GPCR monoamine receptor
+CHEMBL3155	GPCR monoamine receptor
+CHEMBL273	GPCR monoamine receptor
+CHEMBL3459	GPCR monoamine receptor
+CHEMBL5450	GPCR monoamine receptor
+CHEMBL2182	GPCR monoamine receptor
+CHEMBL2490	GPCR monoamine receptor
+CHEMBL4317	GPCR monoamine receptor
+CHEMBL3426	GPCR monoamine receptor
+CHEMBL3597	GPCR monoamine receptor
+CHEMBL4655	GPCR monoamine receptor
+CHEMBL3371	GPCR monoamine receptor
+CHEMBL3372	GPCR monoamine receptor
+CHEMBL3737	GPCR monoamine receptor
+CHEMBL3223	GPCR monoamine receptor
+CHEMBL322	GPCR monoamine receptor
+CHEMBL323	GPCR monoamine receptor
+CHEMBL324	GPCR monoamine receptor
+CHEMBL4105	GPCR monoamine receptor
+CHEMBL5017	GPCR monoamine receptor
+CHEMBL5781	GPCR monoamine receptor
+CHEMBL3833	GPCR monoamine receptor
+CHEMBL4908	GPCR monoamine receptor
+CHEMBL5857	GPCR monoamine receptor
+CHEMBL1926495	GPCR monoamine receptor
+CHEMBL1945	GPCR monoamine receptor
+CHEMBL1946	GPCR monoamine receptor
+CHEMBL218	GPCR  lipid-like ligand receptor
+CHEMBL253	GPCR  lipid-like ligand receptor
+CHEMBL2470	GPCR  lipid-like ligand receptor
+CHEMBL5373	GPCR  lipid-like ligand receptor
+CHEMBL3037	GPCR  lipid-like ligand receptor
+CHEMBL3571	GPCR  lipid-like ligand receptor
+CHEMBL3819	GPCR  lipid-like ligand receptor
+CHEMBL3230	GPCR  lipid-like ligand receptor
+CHEMBL3724	GPCR  lipid-like ligand receptor
+CHEMBL3892	GPCR  lipid-like ligand receptor
+CHEMBL2955	GPCR  lipid-like ligand receptor
+CHEMBL4333	GPCR  lipid-like ligand receptor
+CHEMBL2274	GPCR  lipid-like ligand receptor
+CHEMBL3250	GPCR  lipid-like ligand receptor
+CHEMBL4424	GPCR  lipid-like ligand receptor
+CHEMBL4595	GPCR  lipid-like ligand receptor
+CHEMBL5968	GPCR  lipid-like ligand receptor
+CHEMBL5700	GPCR  lipid-like ligand receptor
+CHEMBL1914263	GPCR  lipid-like ligand receptor
+CHEMBL4422	GPCR  lipid-like ligand receptor
+CHEMBL5411	GPCR  lipid-like ligand receptor
+CHEMBL5493	GPCR  lipid-like ligand receptor
+CHEMBL1795180	GPCR  lipid-like ligand receptor
+CHEMBL1798	GPCR  lipid-like ligand receptor
+CHEMBL3911	GPCR  lipid-like ligand receptor
+CHEMBL3191	GPCR  lipid-like ligand receptor
+CHEMBL5645	GPCR  lipid-like ligand receptor
+CHEMBL1075162	GPCR  lipid-like ligand receptor
+CHEMBL1628461	GPCR  lipid-like ligand receptor
+CHEMBL1075322	GPCR  lipid-like ligand receptor
+CHEMBL250	GPCR  lipid-like ligand receptor
+CHEMBL5136	GPCR  lipid-like ligand receptor
+CHEMBL1987	GPCR  lipid-like ligand receptor
+CHEMBL1881	GPCR  lipid-like ligand receptor
+CHEMBL1995	GPCR  lipid-like ligand receptor
+CHEMBL2069	GPCR  lipid-like ligand receptor
+CHEMBL1811	GPCR  lipid-like ligand receptor
+CHEMBL1836	GPCR  lipid-like ligand receptor
+CHEMBL3710	GPCR  lipid-like ligand receptor
+CHEMBL4820	GPCR  lipid-like ligand receptor
+CHEMBL2181	GPCR  lipid-like ligand receptor
+CHEMBL2488	GPCR  lipid-like ligand receptor
+CHEMBL2489	GPCR  lipid-like ligand receptor
+CHEMBL4336	GPCR  lipid-like ligand receptor
+CHEMBL4427	GPCR  lipid-like ligand receptor
+CHEMBL4086	GPCR  lipid-like ligand receptor
+CHEMBL3933	GPCR  lipid-like ligand receptor
+CHEMBL5068	GPCR  lipid-like ligand receptor
+CHEMBL5071	GPCR  lipid-like ligand receptor
+CHEMBL4909	GPCR  lipid-like ligand receptor
+CHEMBL2291	GPCR  lipid-like ligand receptor
+CHEMBL5000	GPCR  lipid-like ligand receptor
+CHEMBL5674	GPCR  lipid-like ligand receptor
+CHEMBL1075058	GPCR  lipid-like ligand receptor
+CHEMBL1075112	GPCR  lipid-like ligand receptor
+CHEMBL1795181	GPCR  lipid-like ligand receptor
+CHEMBL5409	GPCR  lipid-like ligand receptor
+CHEMBL1075223	GPCR  lipid-like ligand receptor
+CHEMBL1255150	GPCR  lipid-like ligand receptor
+CHEMBL226	GPCR nucleotide-like receptor
+CHEMBL251	GPCR nucleotide-like receptor
+CHEMBL255	GPCR nucleotide-like receptor
+CHEMBL256	GPCR nucleotide-like receptor
+CHEMBL2114	GPCR nucleotide-like receptor
+CHEMBL2115	GPCR nucleotide-like receptor
+CHEMBL302	GPCR nucleotide-like receptor
+CHEMBL3688	GPCR nucleotide-like receptor
+CHEMBL2237	GPCR nucleotide-like receptor
+CHEMBL3360	GPCR nucleotide-like receptor
+CHEMBL4975	GPCR nucleotide-like receptor
+CHEMBL318	GPCR nucleotide-like receptor
+CHEMBL2592	GPCR nucleotide-like receptor
+CHEMBL2605	GPCR nucleotide-like receptor
+CHEMBL1075269	GPCR nucleotide-like receptor
+CHEMBL1075029	GPCR nucleotide-like receptor
+CHEMBL2001	GPCR nucleotide-like receptor
+CHEMBL4714	GPCR nucleotide-like receptor
+CHEMBL2123	GPCR nucleotide-like receptor
+CHEMBL4315	GPCR nucleotide-like receptor
+CHEMBL4398	GPCR nucleotide-like receptor
+CHEMBL4518	GPCR nucleotide-like receptor
+CHEMBL5720	GPCR nucleotide-like receptor

@@ -1,0 +1,23 @@
+Miscellaneous	unclassified or not sure
+enzyme	enzyme (others)
+cytochrome p450	enzyme cytochrome p450
+hydrolase	enzyme hydrolase
+phosphodiesterase	enzyme phosphodiesterase
+Aspartic protease	enzyme protease aspartic
+Cysteine protease	enzyme protease cysteine
+Metallo protease	enzyme protease metallo
+Serine protease	enzyme protease serine
+Transferase	enzyme transferase
+Reductase	enzyme reductase
+lyase	enzyme lyase
+phosphatase	enzyme phosphatase
+protein kinase	kinase protein kinase
+ligand-gated ion channel	ion channel ligand-gated
+ion channel others	ion channel others
+transcription factor	transcription factor
+Transporter	transporter
+Peptide GPCR	GPCR Peptide
+GPCR monoamine receptor	GPCR monoamine receptor
+GPCR  lipid-like ligand receptor	GPCR lipid-like ligand receptor
+GPCR nucleotide-like receptor	GPCR nucleotide-like receptor
+GPCR others	GPCR others
