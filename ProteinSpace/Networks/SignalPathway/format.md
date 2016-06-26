@@ -1,4 +1,4 @@
->##**Egde table**
+##**Egde table**
 node1
 
 node2
@@ -36,7 +36,7 @@ Link
 comment
 
 
->#_NOTE_
+#_NOTE_
 1. All tables shall be comma seperated files (.csv);
 2. About EdgeType (for KEGG orginated edges only):
 --> activation
