@@ -1,51 +1,52 @@
 ##**Egde table**
-node1
+**node1**
 
-node2
+**node2**
 
-Subtype1	_activation;binding/association;dissociation;indirect effect;NULL_
+**Subtype1**	_activation;binding/association;dissociation;indirect effect;NULL_
 
-Subtype2	_dephsophorylation;phosphorylation;NULL_
+**Subtype2**	_dephsophorylation;phosphorylation;NULL_
 
-EdgeType	_-->;---;..>;--|;-+-;NULL_
+**EdgeType**	_-->;---;..>;--|;-+-;NULL_
 
-Source	_hsa04110;CST00_
+**Source**	_hsa04110;CST00_
 
 
 ##**Node table**
-node
+**node**
 
-type	_protein;DNA/RNA;compound;pathway_
+**type**	_protein;DNA/RNA;compound;pathway_
 
-gene(for protein node only)
+**gene**(for protein node only)
 
-cellular_component	_cytosol;nucleus;plasma membrane;mitochondrial membrane;ER membrane;else?_
+**cellular_component**	_cytosol;nucleus;plasma membrane;mitochondrial membrane;ER membrane;else?_
 
 
 ##**Source table**
-source	_KEGG;CST_
+**source**	_KEGG;CST_
 
-PathwayID(correspond to Source in edge table)
+**PathwayID**(correspond to Source in edge table)
 
-PathwayName
+**PathwayName**
 
-Label
+**Label**
 
-Link
+**Link**
 
-comment
+**comment**
 
 
 #_NOTE_
 1. All tables shall be comma seperated files (.csv);
 2. About EdgeType (for KEGG orginated edges only):
---> activation
 
---| inhibition
+>--> activation
 
-..> indirect effect
+>--| inhibition
 
---- binding
+>..> indirect effect
 
--+- association 
+>--- binding
+
+>-+- association 
 
