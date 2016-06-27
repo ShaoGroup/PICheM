@@ -3,7 +3,7 @@
 
 **node2**
 
-**Subtype1**	_activation;binding/association;dissociation;indirect effect;NULL_
+**Subtype1**	_activation;binding/association;dissociation;indirect effect;expression;NULL_
 
 **Subtype2**	_dephsophorylation;phosphorylation;NULL_
 
