@@ -1,0 +1,17 @@
+Pathway ID,Pathway Name,Label,Link,comment
+hsa04010,MAPK signaling pathway,3.2 signal transduction,http://www.kegg.jp/kegg-bin/highlight_pathway?scale=1.0&map=hsa04010&keyword=MAPK,
+hsa04012,ErbB signaling pathway,3.2 signal transduction,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04012&show_description=show,
+hsa04060,Cytokine-cytokine receptor interaction,3.3 Signaling molecules and interaction,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04060&show_description=show,only ligand and receptor interactions
+hsa04110,Cell cycle,4.3 Cell growth and death,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04110&show_description=show,
+hsa04150,mTOR signaling pathway,3.2 signal transduction,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04150&show_description=show,
+hsa04210,Apoptosis,4.3 Cell growth and death,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04210&show_description=show,
+hsa04310,Wnt signaling pathway,3.2 signal transduction,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04310&show_description=show,
+hsa04330,Notch signaling pathway,3.2 signal transduction,http://www.kegg.jp/kegg-bin/highlight_pathway?scale=1.0&map=hsa04330&keyword=notch,
+hsa04350,TGF-beta signaling pathway,3.2 signal transduction,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04350&show_description=show,
+hsa04510,Focal adhesion,4.4 Cellular community,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04510&show_description=show,
+hsa04520,Adherens junction,4.4 Cellular community,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04520&show_description=show,
+hsa04620,Toll-like receptor signaling pathway,5.1 Immune system,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04620&show_description=show,
+hsa04621,NOD-like receptor signaling pathway,5.1 Immune system,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04621&show_description=show,
+hsa04622,RIG-I-like receptor signaling pathway,5.1 Immune system,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04622&show_description=show,
+hsa04623,Cytosolic DNA-sensing pathway,5.1 Immune system,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04623&show_description=show,
+hsa04630,Jak-STAT signaling pathway,3.2 signal transduction,http://www.genome.jp/kegg-bin/show_pathway?map=hsa04630&show_description=show,
