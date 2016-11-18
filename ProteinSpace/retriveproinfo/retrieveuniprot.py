@@ -2,14 +2,24 @@
 # szu
 # 201
 
-import uniprot
-import pprint
+from bioservices import UniProt
+from matplotlib import pyplot as plt
 
-if "__name__" == "__main__":
-    seqids = "NP_000508.1 NP_001018081.3".split()
-    pairs = uniprot.batch_uniProt_id_mapping_pairs('P_REFSEQ_AC', 'ACC',
-                                                   seqids)
-    pprint.pprint(pairs, indent=2)
-    uniprot_seqids = 'A0QSU3 D9QCH6'.split()
-    uniprot_data = uniprot.batch_uniprot_metadata(uniprot_seqids, 'cache')
-    pprint.pprint(mapping, indent=2)
+# if "__name__" == "__main__":
+u = UniProt(verbose=False)
+data = u.search(
+    "zap70+taxonomy:9606",
+    frmt="tab",
+    limit=3,
+    columns="entry name, length, id, genes")
+print data
+
+res = u.search(
+    "DNMT1_HUMAN",
+    frmt="tab",
+    columns="entry name, protein names, pathway, comments")
+print(res)
+
+df = u.get_df("GALK1_HUMAN")
+df['Length'].hist()
+plt.show()
