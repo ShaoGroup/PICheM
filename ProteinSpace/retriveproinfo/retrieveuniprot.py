@@ -5,6 +5,21 @@
 from bioservices import UniProt
 from matplotlib import pyplot as plt
 
+
+def getprotinfo(protlist, idnm):
+    """get protein information from uniprot database
+    uniprot(http://www.uniprot.org) based on the package of
+    bioservices.
+
+    input::
+    protlist: list of proteins
+    idnm: type of protein names, such as AC.
+    output::
+    dataframe of protein information.
+    """
+    u = UniProt(verbose=False)
+
+
 # if "__name__" == "__main__":
 u = UniProt(verbose=False)
 data = u.search(
